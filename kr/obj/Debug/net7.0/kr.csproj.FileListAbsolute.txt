@@ -1,0 +1,14 @@
+C:\Users\30058088\Desktop\TASK\kr\bin\Debug\net7.0\kr.exe
+C:\Users\30058088\Desktop\TASK\kr\bin\Debug\net7.0\kr.deps.json
+C:\Users\30058088\Desktop\TASK\kr\bin\Debug\net7.0\kr.runtimeconfig.json
+C:\Users\30058088\Desktop\TASK\kr\bin\Debug\net7.0\kr.dll
+C:\Users\30058088\Desktop\TASK\kr\bin\Debug\net7.0\kr.pdb
+C:\Users\30058088\Desktop\TASK\kr\obj\Debug\net7.0\kr.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\30058088\Desktop\TASK\kr\obj\Debug\net7.0\kr.AssemblyInfoInputs.cache
+C:\Users\30058088\Desktop\TASK\kr\obj\Debug\net7.0\kr.AssemblyInfo.cs
+C:\Users\30058088\Desktop\TASK\kr\obj\Debug\net7.0\kr.csproj.CoreCompileInputs.cache
+C:\Users\30058088\Desktop\TASK\kr\obj\Debug\net7.0\kr.dll
+C:\Users\30058088\Desktop\TASK\kr\obj\Debug\net7.0\refint\kr.dll
+C:\Users\30058088\Desktop\TASK\kr\obj\Debug\net7.0\kr.pdb
+C:\Users\30058088\Desktop\TASK\kr\obj\Debug\net7.0\kr.genruntimeconfig.cache
+C:\Users\30058088\Desktop\TASK\kr\obj\Debug\net7.0\ref\kr.dll
